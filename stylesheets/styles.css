@@ -57,6 +57,7 @@ h1 {
 	font-weight: 800;
 	font-size: 2em;
 	letter-spacing: .20em;
+	line-height: 1em;
 	text-transform: uppercase;
 }
 
@@ -65,6 +66,7 @@ h2 {
 	font-weight: 600;
 	font-size: 1.2em;
 	letter-spacing: .08em;
+	line-height: 1em;
 	text-transform: uppercase;
 }
 
@@ -73,11 +75,12 @@ p, a, ul, li {
 	font-family: 'Raleway';
 	font-weight: 100;
 	font-size: .08;
+	line-height: 1em;
 	text-decoration: none;
 }
 
 .wrapper {
-	width: 66.6666666%;
+	width: 75%;
 	min-width: 640px;
 }
 
