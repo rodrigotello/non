@@ -86,9 +86,9 @@ p, a, ul, li {
 
 .box {
 	float: left;
-	margin: 1.2em;
 	width: 50%;
 }
 
 .links {
+	padding: 1em;
 }
