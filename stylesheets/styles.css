@@ -74,6 +74,7 @@ p, a, ul, li {
 	font-family: 'Raleway';
 	font-weight: 100;
 	font-size: .08;
+	letter-spacing: 1.2em;
 	line-height: 1.6em;
 	text-decoration: none;
 }
