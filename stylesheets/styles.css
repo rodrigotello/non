@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:100);
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -53,6 +53,7 @@ table {
 
 h1 {
 	font-family: 'Lato';
-	font-weight: 300;
+	font-weight: 100;
 	font-size: 4em;
+	text-transform: uppercase;
 }
