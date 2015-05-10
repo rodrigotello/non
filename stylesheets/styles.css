@@ -56,21 +56,22 @@ h1 {
 	font-family: 'Raleway';
 	font-weight: 800;
 	font-size: 2em;
-	letter-spacing: .2em;
+	letter-spacing: .20em;
 	text-transform: uppercase;
 }
 
 h2 {
 	font-family: 'Raleway';
-	font-weight: 400;
-	font-size: 1.2em;
+	font-weight: 600;
+	font-size: .12em;
+	letter-spacing: .08em;
 	text-transform: uppercase;
 }
 
 p, a, ul, li {
+	color: black;
 	font-family: 'Raleway';
 	font-weight: 100;
-	font-size: .8;
+	font-size: .08;
 	text-decoration: none;
-	color: black;
 }
