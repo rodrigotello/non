@@ -56,7 +56,7 @@ h1 {
 	font-weight: 800;
 	font-size: 2em;
 	letter-spacing: .20em;
-	line-height: 2em;
+	line-height: 2.4em;
 	text-transform: uppercase;
 }
 
@@ -65,7 +65,7 @@ h2 {
 	font-weight: 600;
 	font-size: 1.2em;
 	letter-spacing: .08em;
-	line-height: 1.6em;
+	line-height: 1.8em;
 	text-transform: uppercase;
 }
 
@@ -75,7 +75,7 @@ p, a, ul, li {
 	font-weight: 100;
 	font-size: .08;
 	letter-spacing: .08em;
-	line-height: 1.6em;
+	line-height: 1.64em;
 	text-decoration: none;
 }
 
