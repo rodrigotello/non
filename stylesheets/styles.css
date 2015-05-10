@@ -81,6 +81,8 @@ p, a, ul, li {
 	min-width: 640px;
 }
 
-.links {
+.box {
 	float: left;
+}
+.links {
 }
