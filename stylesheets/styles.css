@@ -75,3 +75,12 @@ p, a, ul, li {
 	font-size: .08;
 	text-decoration: none;
 }
+
+.wrapper {
+	width: 50%;
+	min-width: 640px;
+}
+
+.links {
+	
+}
