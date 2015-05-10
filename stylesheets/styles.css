@@ -53,15 +53,15 @@ table {
 /* HTML5 display-role reset for older browsers */
 
 h1 {
-	font-family: 'Lato';
-	font-weight: 100;
+	font-family: 'Raleway';
+	font-weight: 800;
 	font-size: 2em;
 	text-transform: uppercase;
 }
 
 h2 {
 	font-family: 'Raleway';
-	font-weight: 800;
+	font-weight: 400;
 	font-size: 1.2em;
 	text-transform: uppercase;
 }
