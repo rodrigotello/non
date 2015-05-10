@@ -55,14 +55,14 @@ table {
 h1 {
 	font-family: 'Lato';
 	font-weight: 100;
-	font-size: 4em;
+	font-size: 2em;
 	text-transform: uppercase;
 }
 
 h2 {
 	font-family: 'Raleway';
-	font-weight: 400;
-	font-size: 2em;
+	font-weight: 800;
+	font-size: 1.2em;
 	text-transform: uppercase;
 }
 
@@ -70,4 +70,6 @@ p, a, ul, li {
 	font-family: 'Raleway';
 	font-weight: 100;
 	font-size: .8;
+	text-decoration: none;
+	color: black;
 }
