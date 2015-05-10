@@ -82,10 +82,11 @@ p, a, ul, li {
 .wrapper {
 	width: 75%;
 	min-width: 640px;
-	margin: 0 auto;
+	margin: 4.2em auto;
 }
 
 .box {
+	padding: .2em;
 	float: left;
 	width: 50%;
 }
